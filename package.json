@@ -1,0 +1,31 @@
+{
+  "name": "s3-tile-storage",
+  "version": "1.0.0",
+  "description": "S3 tile storage for express-tile-cache. Adds s3 remote storage to tile cache capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CGastrell/s3-tile-storage.git"
+  },
+  "keywords": [
+    "tile",
+    "cache",
+    "tms",
+    "aws",
+    "s3",
+    "express-tile-cache",
+    "geoserver",
+    "maps",
+    "tiles",
+    "storage"
+  ],
+  "author": "Christian Gastrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CGastrell/s3-tile-storage/issues"
+  },
+  "homepage": "https://github.com/CGastrell/s3-tile-storage"
+}
