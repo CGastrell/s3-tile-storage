@@ -22,10 +22,20 @@
     "tiles",
     "storage"
   ],
-  "author": "Christian Gastrell",
+  "author": {
+    "name": "cg",
+    "email": "cgastrell@gmail.com",
+    "url": "https://github.com/CGastrell"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CGastrell/s3-tile-storage/issues"
   },
-  "homepage": "https://github.com/CGastrell/s3-tile-storage"
+  "homepage": "https://github.com/CGastrell/s3-tile-storage",
+  "dependencies": {
+    "aws-sdk": "^2.1.16",
+    "debug": "^2.1.2",
+    "s3-upload-stream": "^1.0.2",
+    "superagent": "^0.21.0"
+  }
 }
