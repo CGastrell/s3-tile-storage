@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## s3-tile-storage
  
 A module to extend [express-tile-cache](https://github.com/CGastrell/express-tile-cache) tile storage to use remote S3 backend. 
