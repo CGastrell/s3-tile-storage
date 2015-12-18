@@ -1,6 +1,6 @@
 {
   "name": "s3-tile-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "S3 tile storage for express-tile-cache. Adds s3 remote storage to tile cache capabilities",
   "main": "index.js",
   "scripts": {
